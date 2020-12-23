@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManager (6.5.6)
+  - ObjectMapper (3.5.3)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - ObjectMapper (~> 3.5)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+
+PODFILE CHECKSUM: 65b988071f46ebf81b4fbf5131065392fec99014
+
+COCOAPODS: 1.9.3

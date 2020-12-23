@@ -1,0 +1,10 @@
+// -------- Alerts --------
+"internet.alert.text" = "Unable to contact the server.";
+"internet.alert.Title" = "Networkerror";
+
+// -------- Delete ---------
+"delete.title.text" = "Are you sure you want to delete ?";
+
+// -------- Edit Diary ---------
+"EditDiary.alert.title" = "Please enter diary title.";
+"EditDiary.alert.content" = "Please enter diary content.";
