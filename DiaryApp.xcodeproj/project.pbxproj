@@ -29,6 +29,7 @@
 		C546D9242576025F0078BE25 /* DiaryServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = C546D9232576025F0078BE25 /* DiaryServices.swift */; };
 		C546D92B2576077C0078BE25 /* AppHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C546D92A2576077C0078BE25 /* AppHelper.swift */; };
 		C546D92E25760A530078BE25 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = C546D92D25760A530078BE25 /* Note.swift */; };
+		C563965425934042002AAF31 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C563965325934042002AAF31 /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		C546D9232576025F0078BE25 /* DiaryServices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiaryServices.swift; sourceTree = "<group>"; };
 		C546D92A2576077C0078BE25 /* AppHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppHelper.swift; sourceTree = "<group>"; };
 		C546D92D25760A530078BE25 /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		C563965325934042002AAF31 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				C546D9162575FEFD0078BE25 /* ServiceConstants.swift */,
 				C546D9172575FEFD0078BE25 /* ServiceHelper.swift */,
 				C546D9152575FEFD0078BE25 /* WSHandler.swift */,
+				C563965325934042002AAF31 /* DetailVC.swift */,
 			);
 			path = API;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				C546D91A2575FEFD0078BE25 /* ServiceHelper.swift in Sources */,
 				C5370471257646F8007768CE /* DairyListCell.swift in Sources */,
 				C546D9182575FEFD0078BE25 /* WSHandler.swift in Sources */,
+				C563965425934042002AAF31 /* DetailVC.swift in Sources */,
 				C52A74EB2574FC6F00F8D7D6 /* AppDelegate.swift in Sources */,
 				C53704632576274C007768CE /* BaseViewController.swift in Sources */,
 				C546D92B2576077C0078BE25 /* AppHelper.swift in Sources */,
